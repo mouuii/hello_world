@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-11T02:56:51.846Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="WE9OkZvT9ZRU0knSliaO" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-11T05:39:53.597Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="wlvOshAHhCGNRq6PAGL9" version="21.2.9" type="github">
   <diagram name="Page-1" id="om6kfkXCuX2hDVb3iTbD">
-    <mxGraphModel dx="1050" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1259" dy="685" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -108,7 +108,7 @@
             <mxPoint x="770" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eexkDwBA2EC4KnZvLFfI-36" value="2.查询动态工作流信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="eexkDwBA2EC4KnZvLFfI-35" vertex="1" connectable="0">
+        <mxCell id="eexkDwBA2EC4KnZvLFfI-36" value="2.提交动态工作流" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="eexkDwBA2EC4KnZvLFfI-35" vertex="1" connectable="0">
           <mxGeometry x="-0.2762" y="1" relative="1" as="geometry">
             <mxPoint x="83" y="1" as="offset" />
           </mxGeometry>
