@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-11T05:39:53.597Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="wlvOshAHhCGNRq6PAGL9" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-11T05:44:29.051Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="qrQYYwJKH1nxAGBp3BXg" version="21.2.9" type="github">
   <diagram name="Page-1" id="om6kfkXCuX2hDVb3iTbD">
     <mxGraphModel dx="1259" dy="685" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -186,7 +186,7 @@
             <mxPoint x="720" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="77jAs8KEpDss36G1PGta-44" value="3.查询构建部署信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="77jAs8KEpDss36G1PGta-43">
+        <mxCell id="77jAs8KEpDss36G1PGta-44" value="3.查询构建、服务表&lt;br&gt;获取构建信息信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="77jAs8KEpDss36G1PGta-43">
           <mxGeometry x="-0.1358" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
